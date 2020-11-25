@@ -1,0 +1,4 @@
+D:\C#\Que1_Account\Que1_Account\bin\Debug\Que1_Account.exe
+D:\C#\Que1_Account\Que1_Account\bin\Debug\Que1_Account.pdb
+D:\C#\Que1_Account\Que1_Account\obj\Debug\Que1_Account.exe
+D:\C#\Que1_Account\Que1_Account\obj\Debug\Que1_Account.pdb
